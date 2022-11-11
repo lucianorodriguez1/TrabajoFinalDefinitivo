@@ -1,0 +1,66 @@
+[
+    {
+       "id":1,
+       "nombre":"PC Home Office / Micro Intel pentium G6405 - H410 - 8GB - 240GB SSD",
+       "cantidad":1,
+       "desc":"Una PC que re va con vos",
+       "precio":56312.12,
+       "img":"./img/pc-1.jpg"
+    },
+    {
+       "id":2,
+       "nombre":"PC Oficina Intel - I3 10105 - H410 - 8GB RAM - 240SSD",
+       "cantidad":1,
+       "desc":"Una PC que re va con vos",
+       "precio":70232.62,
+       "img":"./img/pc-2.jpg"
+    },
+    {
+       "id":3,
+       "nombre":"PC OFICINA INTEL I3 10105F - GT1030 2GB - H410 - 8GB - 240GB SSD",
+       "cantidad":1,
+       "desc":"Una PC que re va con vos",
+       "precio":83275.38,
+       "img":"./img/pc-3.jpg"
+    },
+    {
+       "id":4,
+       "nombre":"PC HOME OFFICE / MICRO INTEL I5 10400 - H410 - 8GB - 240GB SSD",
+       "cantidad":1,
+       "desc":"Una PC que re va con vos",
+       "precio":83563.91,
+       "img":"./img/pc-4.jpg"
+    },
+    {
+       "id":5,
+       "nombre":"PC OFICINA INTEL I5 10400 - B460 - 16GB - 480 SSD",
+       "cantidad":1,
+       "desc":"Una PC que re va con vos",
+       "precio":93793.72,
+       "img":"./img/pc-5.jpg"
+    },
+    {
+       "id":6,
+       "nombre":"PC STREAMING RYZEN 7 4750G PRO - B450 - 16GB - 240GB",
+       "cantidad":1,
+       "desc":"Una PC que re va con vos",
+       "precio":112143.69,
+       "img":"./img/pc-6.jpg"
+    },
+    {
+       "id":7,
+       "nombre":"PC INTEL GAMER I3 12100F - H610 - 16GB -240GB SSD - RX6400 ",
+       "cantidad":1,
+       "desc":"Una PC que re va con vos",
+       "precio":153866.56,
+       "img":"./img/pc-7.jpg"
+    },
+    {
+       "id":8,
+       "nombre":"PC GAMER - Intel Core I7 10700KF - Z490 - 32GB - 3070 8gb - 480GB SSD",
+       "cantidad":1,
+       "desc":"Una PC que re va con vos",
+       "precio":502086.41,
+       "img":"./img/pc-8.jpg"
+    }
+ ]
